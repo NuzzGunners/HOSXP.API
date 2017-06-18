@@ -1,0 +1,6 @@
+D:\Project\HOSXP\HOSXP.API\bin\Debug\netcoreapp1.1\HOSXP.API.deps.json
+D:\Project\HOSXP\HOSXP.API\bin\Debug\netcoreapp1.1\HOSXP.API.runtimeconfig.json
+D:\Project\HOSXP\HOSXP.API\bin\Debug\netcoreapp1.1\HOSXP.API.runtimeconfig.dev.json
+D:\Project\HOSXP\HOSXP.API\bin\Debug\netcoreapp1.1\HOSXP.API.dll
+D:\Project\HOSXP\HOSXP.API\obj\Debug\netcoreapp1.1\HOSXP.API.csprojResolveAssemblyReference.cache
+D:\Project\HOSXP\HOSXP.API\obj\Debug\netcoreapp1.1\HOSXP.API.AssemblyInfo.cs
